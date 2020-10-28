@@ -53,6 +53,7 @@ public class SaldoTabungan {
         data.masukkanSaldo();
         data.hitungSaldo();
         data.tampilSaldo();
+        System.out.println("Developed by : Ivan Faathirza");
     }
     
 }
